@@ -4,5 +4,5 @@ red
 blue
 green
 yello
-voidel
+voiet
 are the colors of raimbow
